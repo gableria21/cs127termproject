@@ -24,6 +24,10 @@ Talking about the features of the food ordering system, the user must select any
 
 ----
 
+### 👨🏼‍💻 Programming Languages and Tools Used:
+
+<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+
 ### 🍕 Scope:
 
 The topic we used in making this term project are the following: 
